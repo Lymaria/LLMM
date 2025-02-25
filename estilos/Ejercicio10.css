@@ -1,0 +1,17 @@
+body{
+    margin: 10%;
+}
+h3{
+    border-bottom: solid 5px #4d18a8 ;
+    border-top: solid 3px #4d18a8 ;
+}
+p {
+    border-left: dashed 5px #3a851c;
+    border-right: dashed 5px #3a851c;
+    border-bottom: dotted 3px #d1d52c;
+    border-top: dotted 3px #d1d52c;
+    padding-top: 25px ;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
